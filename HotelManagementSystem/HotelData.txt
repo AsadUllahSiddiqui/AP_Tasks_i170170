@@ -1,0 +1,7 @@
+...............Customers...................
+asad , 03315685559 , RoomNo :0 Bill :500.0
+ali , 12345678895678 , RoomNo :1 Bill :1250.0
+...............Rooms...................
+0 , Booked
+1 , Booked
+2 , available
